@@ -1,7 +1,6 @@
 ## 💪 The Fit Club - React Frontend Website
 
-A modern and responsive **fitness website frontend** built using **React**.  
-This project provides a clean and dynamic UI for showcasing fitness programs, trainers, and membership plans.  
+A modern and responsive **fitness website frontend** built using **React**. This project provides a clean and dynamic UI for showcasing fitness programs, trainers, and membership plans.  
 
 ## 🌐 Live Demo
 🔗 [View The Fit Club](https://the-fit-club-frontend-react.vercel.app/)  
