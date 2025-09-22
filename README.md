@@ -21,4 +21,4 @@ A modern and responsive **fitness website frontend** built using **React**. This
 - 📌 Reusable components for buttons, cards, and layouts  
 - 🌐 Ready for GitHub Pages deployment
   
-⚠️ Note: This repository contains only the **production build** of the website. The source code was not included.  
+⚠️ **Note:** This repository contains only the **production build** of the website. The source code was not included.  
